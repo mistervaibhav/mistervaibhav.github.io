@@ -15,11 +15,11 @@
   },
   "routes": [
     {
-      "pattern": "vaibhavsinghh.in/*",
+      "pattern": "vaibhavsinghh.in",
       "custom_domain": true
     },
     {
-      "pattern": "www.vaibhavsinghh.in/*",
+      "pattern": "www.vaibhavsinghh.in",
       "custom_domain": true
     }
   ]
